@@ -24,9 +24,9 @@
 - Airdrop
 
 #### Sources used to build the EFI
-https://dortania.github.io/OpenCore-Install-Guide/
-https://github.com/acidanthera
-https://github.com/OpenIntelWireless
-https://github.com/USBToolBox
-https://github.com/johnlimabravo/XHCI-unsupported/releases
-https://github.com/aluveitie/RadeonSensor
+- https://dortania.github.io/OpenCore-Install-Guide/
+- https://github.com/acidanthera
+- https://github.com/OpenIntelWireless
+- https://github.com/USBToolBox
+- https://github.com/johnlimabravo/XHCI-unsupported/releases
+- https://github.com/aluveitie/RadeonSensor
