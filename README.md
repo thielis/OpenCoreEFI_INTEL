@@ -6,7 +6,7 @@
 - MSI B560M-A PRO
     - Audio Codec: ALC897
         - PciRoot(0x0)/Pci(0x1f,0x3) (Dictionary)
-            - layout-id (number) "23"
+            - layout-id (number) "66"
     - Ethernet Card: Realtek RTL 8125
     - PCI-e 1x Wifi + Bluetooth 4.2 Intel AC 7265
     - SSD SATA OR NVME
